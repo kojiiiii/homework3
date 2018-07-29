@@ -15,5 +15,8 @@ cv2.imshow("camera", frame)
 cv2.imshow("hadairo", mask)ここで元の映像と、変換後の白黒画像を表示している
 if cv2.waitKey(25) & 0xFF == ord('q'):qが押されるとウィンドウを閉じる
 
+実践動画
+https://www.youtube.com/watch?v=0JHKv62nxCo
+
 
 
